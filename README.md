@@ -14,6 +14,6 @@ This project is a Python translation of the Go project "dummy-endpoints-http". I
 
 ## Usage
 1. ./setup.sh
-2. Start the server: `python3 -m server.main`
+2. Start the server: `python3 -m server.start_servers`
 3. Run the client: `python3 -m client.main`
 
